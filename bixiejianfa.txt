@@ -1,5 +1,11 @@
 必须写什么
 budong
 lhc lhc lhc
+<<<<<<< HEAD
 =======
 fsdfsdsfsdybq ybq
+=======
+=======dongfangbubai
+ybq ybq
+>>>>>>> fda551d151c803338a0ad71d8d578446d5892db3
+lililinoiiiiiiiii
